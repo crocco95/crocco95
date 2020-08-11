@@ -1,5 +1,5 @@
 # Lorenzo Croccolino
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crocco95&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=crocco95&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crocco95)](https://github.com/anuraghazra/github-readme-stats)
 
