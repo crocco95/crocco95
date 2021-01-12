@@ -1,5 +1,6 @@
 # Hello World!
 Hi, my name is **Lorenzo**, I am 25, Italian and I work as software developer specialized in web applications.
+I have a bachelor's degree in computer engeneer at University of Bologna (UNIBO).
 My favorite programming language is **PHP** that I use for nearly 10 years. I usually use it as "vanilla" flavor, Laravel, and Lumen frameworks. I have a little experience also with Symfony but I don't like it so much.
 
 **Javascript** is obviously a language that I use massively in my projects and I love it as well, in particular when implemented using **Vue.JS**, my JS favorite framework.
